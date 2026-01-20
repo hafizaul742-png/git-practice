@@ -1,2 +1,3 @@
 my second commit
 This line is from feature branch
+This line is not ready yet
